@@ -16,4 +16,4 @@ Group Members: Marine Elisabeth and Roman Didelet
   - NCMClassifier: Discriminative algorithm
   - utils: contains function to boostrap and bag samples for random forests
 
-All commits reflect authorship except for two files: NCMClassifier and utils. Those two files were recovered from a previous project Roman worked on before IIT. Both files have mentions of their original author(s) at the top.
+All commits reflect authorship except for three files: Test_main was done by both group members. <br/> NCMClassifier and utils were recovered from a previous project Roman worked on before IIT. Both files have mentions of their original author(s) at the top.
