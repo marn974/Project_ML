@@ -1,0 +1,120 @@
+
+Class to find :  0
+Combined rejection rate for samples of class 0 by roots of class 0 : 1.4000000000000001
+Combined rejection rate for samples of class 0 by roots of class 1 : 100.0
+Combined rejection rate for samples of class 0 by roots of class 2 : 94.6
+Combined rejection rate for samples of class 0 by roots of class 3 : 99.1
+Combined rejection rate for samples of class 0 by roots of class 4 : 97.8
+Combined rejection rate for samples of class 0 by roots of class 5 : 97.39999999999999
+Combined rejection rate for samples of class 0 by roots of class 6 : 85.5
+Combined rejection rate for samples of class 0 by roots of class 7 : 100.0
+Combined rejection rate for samples of class 0 by roots of class 8 : 56.10000000000001
+Combined rejection rate for samples of class 0 by roots of class 9 : 90.5
+
+Class to find :  1
+Combined rejection rate for samples of class 1 by roots of class 0 : 100.0
+Combined rejection rate for samples of class 1 by roots of class 1 : 1.5
+Combined rejection rate for samples of class 1 by roots of class 2 : 99.5
+Combined rejection rate for samples of class 1 by roots of class 3 : 99.7
+Combined rejection rate for samples of class 1 by roots of class 4 : 98.3
+Combined rejection rate for samples of class 1 by roots of class 5 : 100.0
+Combined rejection rate for samples of class 1 by roots of class 6 : 99.6
+Combined rejection rate for samples of class 1 by roots of class 7 : 99.6
+Combined rejection rate for samples of class 1 by roots of class 8 : 97.3
+Combined rejection rate for samples of class 1 by roots of class 9 : 99.8
+
+Class to find :  2
+Combined rejection rate for samples of class 2 by roots of class 0 : 99.6
+Combined rejection rate for samples of class 2 by roots of class 1 : 99.4
+Combined rejection rate for samples of class 2 by roots of class 2 : 0.8999999999999999
+Combined rejection rate for samples of class 2 by roots of class 3 : 95.19999999999999
+Combined rejection rate for samples of class 2 by roots of class 4 : 96.0
+Combined rejection rate for samples of class 2 by roots of class 5 : 100.0
+Combined rejection rate for samples of class 2 by roots of class 6 : 100.0
+Combined rejection rate for samples of class 2 by roots of class 7 : 92.2
+Combined rejection rate for samples of class 2 by roots of class 8 : 90.2
+Combined rejection rate for samples of class 2 by roots of class 9 : 98.4
+
+Class to find :  3
+Combined rejection rate for samples of class 3 by roots of class 0 : 98.5
+Combined rejection rate for samples of class 3 by roots of class 1 : 99.7
+Combined rejection rate for samples of class 3 by roots of class 2 : 15.5
+Combined rejection rate for samples of class 3 by roots of class 3 : 1.6
+Combined rejection rate for samples of class 3 by roots of class 4 : 96.89999999999999
+Combined rejection rate for samples of class 3 by roots of class 5 : 43.1
+Combined rejection rate for samples of class 3 by roots of class 6 : 99.8
+Combined rejection rate for samples of class 3 by roots of class 7 : 89.5
+Combined rejection rate for samples of class 3 by roots of class 8 : 40.400000000000006
+Combined rejection rate for samples of class 3 by roots of class 9 : 76.2
+
+Class to find :  4
+Combined rejection rate for samples of class 4 by roots of class 0 : 100.0
+Combined rejection rate for samples of class 4 by roots of class 1 : 99.8
+Combined rejection rate for samples of class 4 by roots of class 2 : 93.5
+Combined rejection rate for samples of class 4 by roots of class 3 : 99.6
+Combined rejection rate for samples of class 4 by roots of class 4 : 0.8
+Combined rejection rate for samples of class 4 by roots of class 5 : 100.0
+Combined rejection rate for samples of class 4 by roots of class 6 : 95.39999999999999
+Combined rejection rate for samples of class 4 by roots of class 7 : 55.50000000000001
+Combined rejection rate for samples of class 4 by roots of class 8 : 54.2
+Combined rejection rate for samples of class 4 by roots of class 9 : 58.699999999999996
+
+Class to find :  5
+Combined rejection rate for samples of class 5 by roots of class 0 : 99.1
+Combined rejection rate for samples of class 5 by roots of class 1 : 100.0
+Combined rejection rate for samples of class 5 by roots of class 2 : 96.7
+Combined rejection rate for samples of class 5 by roots of class 3 : 54.800000000000004
+Combined rejection rate for samples of class 5 by roots of class 4 : 97.39999999999999
+Combined rejection rate for samples of class 5 by roots of class 5 : 1.0999999999999999
+Combined rejection rate for samples of class 5 by roots of class 6 : 95.7
+Combined rejection rate for samples of class 5 by roots of class 7 : 99.2
+Combined rejection rate for samples of class 5 by roots of class 8 : 67.5
+Combined rejection rate for samples of class 5 by roots of class 9 : 80.7
+
+Class to find :  6
+Combined rejection rate for samples of class 6 by roots of class 0 : 85.0
+Combined rejection rate for samples of class 6 by roots of class 1 : 99.6
+Combined rejection rate for samples of class 6 by roots of class 2 : 97.7
+Combined rejection rate for samples of class 6 by roots of class 3 : 99.7
+Combined rejection rate for samples of class 6 by roots of class 4 : 48.6
+Combined rejection rate for samples of class 6 by roots of class 5 : 80.4
+Combined rejection rate for samples of class 6 by roots of class 6 : 2.0
+Combined rejection rate for samples of class 6 by roots of class 7 : 100.0
+Combined rejection rate for samples of class 6 by roots of class 8 : 73.2
+Combined rejection rate for samples of class 6 by roots of class 9 : 98.1
+
+Class to find :  7
+Combined rejection rate for samples of class 7 by roots of class 0 : 100.0
+Combined rejection rate for samples of class 7 by roots of class 1 : 95.3
+Combined rejection rate for samples of class 7 by roots of class 2 : 87.2
+Combined rejection rate for samples of class 7 by roots of class 3 : 93.60000000000001
+Combined rejection rate for samples of class 7 by roots of class 4 : 88.9
+Combined rejection rate for samples of class 7 by roots of class 5 : 99.5
+Combined rejection rate for samples of class 7 by roots of class 6 : 100.0
+Combined rejection rate for samples of class 7 by roots of class 7 : 1.2
+Combined rejection rate for samples of class 7 by roots of class 8 : 92.30000000000001
+Combined rejection rate for samples of class 7 by roots of class 9 : 37.7
+
+Class to find :  8
+Combined rejection rate for samples of class 8 by roots of class 0 : 92.7
+Combined rejection rate for samples of class 8 by roots of class 1 : 99.8
+Combined rejection rate for samples of class 8 by roots of class 2 : 56.99999999999999
+Combined rejection rate for samples of class 8 by roots of class 3 : 45.2
+Combined rejection rate for samples of class 8 by roots of class 4 : 64.0
+Combined rejection rate for samples of class 8 by roots of class 5 : 49.9
+Combined rejection rate for samples of class 8 by roots of class 6 : 79.7
+Combined rejection rate for samples of class 8 by roots of class 7 : 89.3
+Combined rejection rate for samples of class 8 by roots of class 8 : 0.8
+Combined rejection rate for samples of class 8 by roots of class 9 : 34.599999999999994
+
+Class to find :  9
+Combined rejection rate for samples of class 9 by roots of class 0 : 98.8
+Combined rejection rate for samples of class 9 by roots of class 1 : 98.2
+Combined rejection rate for samples of class 9 by roots of class 2 : 95.3
+Combined rejection rate for samples of class 9 by roots of class 3 : 84.8
+Combined rejection rate for samples of class 9 by roots of class 4 : 26.1
+Combined rejection rate for samples of class 9 by roots of class 5 : 88.3
+Combined rejection rate for samples of class 9 by roots of class 6 : 99.6
+Combined rejection rate for samples of class 9 by roots of class 7 : 19.1
+Combined rejection rate for samples of class 9 by roots of class 8 : 30.8
+Combined rejection rate for samples of class 9 by roots of class 9 : 0.8
