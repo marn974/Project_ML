@@ -1,8 +1,8 @@
 import sys
 
 sys.path.append("..")
-#from headers.NCMClassifier import NCMClassifier
-from OneCentroid import OneCentroid
+from headers.NCMClassifier import NCMClassifier
+from headers.OneCentroid import OneCentroid
 from numpy import inf
 import numpy as np
 import pandas as pd
@@ -83,8 +83,8 @@ class Node:
         X_subclasses = X[np.array(idx_subclasses[0]), :]  # Recuperation de l'echantillon
         y_subclasses = y[idx_subclasses]
 
-        #self.splitting_clf = NCMClassifier(metric=self.distance, sub_features=sub_features)
-        #self.splitting_clf.fit(X_subclasses, y_subclasses)
+        self.splitting_clf = NCMClassifier(metric=self.distance, sub_features=sub_features)
+        self.splitting_clf.fit(X_subclasses, y_subclasses)
         self.update_statistics(y)
         if len(k) <= 1:
             # When single leaf

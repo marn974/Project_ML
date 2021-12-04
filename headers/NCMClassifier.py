@@ -1,3 +1,7 @@
+'''
+Authors: Ludovic Carlu & Roman Didelet
+'''
+
 import sys
 import time
 
