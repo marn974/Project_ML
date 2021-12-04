@@ -1,4 +1,4 @@
-# Project_ML
+# CS 584 ML Project Fall 2021
 This is our Project for CS 584 ML course at IIT Fall 2021 <br/>
 The project's goal is to perform MNIST handwritten digits classification using hybrid random forests containing both generative and discriminative nodes. <br/>
 Group Members: Marine Elisabeth and Roman Didelet
